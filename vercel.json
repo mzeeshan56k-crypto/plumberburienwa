@@ -1,17 +1,116 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
   "trailingSlash": true,
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/styles.css",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
-    { "source": "/(styles.css|main.js)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] },
-    { "source": "/(.*\\.svg|og-image.png)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=2592000" }] }
+    {
+      "source": "/main.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)\\.svg",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)\\.png",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/drain-cleaning",
+      "destination": "/services/drain-cleaning/",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-plumber",
+      "destination": "/services/emergency-plumber/",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection",
+      "destination": "/services/leak-detection/",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-repair",
+      "destination": "/services/sewer-line-repair/",
+      "permanent": true
+    },
+    {
+      "source": "/water-heater-repair",
+      "destination": "/services/water-heater-repair/",
+      "permanent": true
+    },
+    {
+      "source": "/repiping",
+      "destination": "/services/pipe-repair/",
+      "permanent": true
+    },
+    {
+      "source": "/seahurst",
+      "destination": "/areas/seahurst/",
+      "permanent": true
+    },
+    {
+      "source": "/normandy-park",
+      "destination": "/areas/normandy-park/",
+      "permanent": true
+    },
+    {
+      "source": "/white-center",
+      "destination": "/areas/white-center/",
+      "permanent": true
+    },
+    {
+      "source": "/gregory-heights",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/three-tree-point",
+      "destination": "/",
+      "permanent": true
+    }
   ]
 }
