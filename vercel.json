@@ -88,28 +88,23 @@
       "permanent": true
     },
     {
-      "source": "/seahurst",
-      "destination": "/areas/seahurst/",
-      "permanent": true
-    },
-    {
-      "source": "/normandy-park",
-      "destination": "/areas/normandy-park/",
-      "permanent": true
-    },
-    {
-      "source": "/white-center",
-      "destination": "/areas/white-center/",
-      "permanent": true
-    },
-    {
       "source": "/gregory-heights",
-      "destination": "/",
+      "destination": "/service-areas/",
       "permanent": true
     },
     {
       "source": "/three-tree-point",
-      "destination": "/",
+      "destination": "/service-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/areas",
+      "destination": "/service-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/areas/:slug",
+      "destination": "/:slug/",
       "permanent": true
     }
   ]
