@@ -39,5 +39,6 @@ Key facts:
 ## Optional
 - [Full site content](https://plumberburienwa.com/llms-full.txt): The complete text of every page in one plain-text file.
 - [Sitemap](https://plumberburienwa.com/sitemap.xml): List of all pages.
+- [Blog](https://plumberburienwa.com/blog/): Plumbing tips and guides for homeowners.
 - [Privacy Policy](https://plumberburienwa.com/privacy/): How we collect, use and protect call and website data on plumberburienwa.com. Questions about your privacy? Call (833) 710-2588.
 - [Terms of Use](https://plumberburienwa.com/terms/): The terms that apply when you use plumberburienwa.com or request service by phone. Questions about these terms? Call (833) 710-2588.

@@ -1,0 +1,92 @@
+[
+ {
+  "path": "/",
+  "lastmod": "2026-11-03",
+  "priority": "1.0"
+ },
+ {
+  "path": "/services/",
+  "lastmod": "2026-11-03",
+  "priority": "0.9"
+ },
+ {
+  "path": "/services/emergency-plumber/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/services/drain-cleaning/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/services/water-heater-repair/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/services/leak-detection/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/services/sewer-line-repair/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/services/pipe-repair/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/service-areas/",
+  "lastmod": "2026-11-03",
+  "priority": "0.9"
+ },
+ {
+  "path": "/seatac/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/white-center/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/normandy-park/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/seahurst/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/boulevard-park/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/about/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/contact/",
+  "lastmod": "2026-11-03",
+  "priority": "0.8"
+ },
+ {
+  "path": "/privacy/",
+  "lastmod": "2026-11-03",
+  "priority": "0.3"
+ },
+ {
+  "path": "/terms/",
+  "lastmod": "2026-11-03",
+  "priority": "0.3"
+ }
+]

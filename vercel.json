@@ -3,7 +3,7 @@
   "trailingSlash": true,
   "headers": [
     {
-      "source": "/(llms.txt|llms-full.txt|robots.txt)",
+      "source": "/(llms-full.txt|robots.txt)",
       "headers": [
         {
           "key": "Content-Type",
@@ -25,19 +25,6 @@
         {
           "key": "Content-Type",
           "value": "text/xsl; charset=utf-8"
-        }
-      ]
-    },
-    {
-      "source": "/sitemap.xml",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "application/xml; charset=utf-8"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=3600"
         }
       ]
     },
@@ -145,6 +132,67 @@
       "source": "/areas/:slug",
       "destination": "/:slug/",
       "permanent": true
+    },
+    {
+      "source": "/_posts/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/_data/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/content/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/scripts/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/README.md",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/STRATEGY.md",
+      "destination": "/",
+      "permanent": false
+    }
+  ],
+  "functions": {
+    "api/blog.js": {
+      "includeFiles": "{_posts,_data}/**"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/blog",
+      "destination": "/api/blog?kind=index"
+    },
+    {
+      "source": "/blog/",
+      "destination": "/api/blog?kind=index"
+    },
+    {
+      "source": "/blog/:slug",
+      "destination": "/api/blog?kind=post&slug=:slug"
+    },
+    {
+      "source": "/blog/:slug/",
+      "destination": "/api/blog?kind=post&slug=:slug"
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/api/blog?kind=sitemap"
+    },
+    {
+      "source": "/llms.txt",
+      "destination": "/api/blog?kind=llms"
     }
   ]
 }
