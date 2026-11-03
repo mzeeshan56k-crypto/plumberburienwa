@@ -22,14 +22,25 @@ DOMAIN = "https://plumberburienwa.com"
 PHONE_ICON = '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>'
 ARROW = '<svg class="i" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>'
 
-# Publishing schedule: 10 posts a week, two each weekday at 9:00 and
-# 15:00 Pacific (PST, UTC-8), starting Wednesday 4 November 2026.
-START = datetime(2026, 11, 4, tzinfo=timezone.utc)
+# Publishing schedule: 10 posts a week. Launch week (2 to 8 November 2026)
+# opens with 3 posts at once, then fills to 10. From Monday 9 November it is
+# two posts each weekday at 9:00 and 15:00 Pacific (PST, UTC-8).
+def utc(*a):
+    return datetime(*a, tzinfo=timezone.utc)
+
+
+LAUNCH_WEEK = [utc(2026, 11, 3, 4)] * 3 + [
+    utc(2026, 11, 3, 17), utc(2026, 11, 3, 23),
+    utc(2026, 11, 4, 17), utc(2026, 11, 4, 23),
+    utc(2026, 11, 5, 17), utc(2026, 11, 5, 23),
+    utc(2026, 11, 6, 17),
+]
+START = utc(2026, 11, 9)
 SLOTS_UTC = (17, 23)
 
 
 def schedule(n):
-    out, day = [], START
+    out, day = list(LAUNCH_WEEK[:n]), START
     while len(out) < n:
         if day.weekday() < 5:
             for h in SLOTS_UTC:
