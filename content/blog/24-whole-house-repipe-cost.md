@@ -11,7 +11,7 @@ Whole house repipe cost in Burien is usually $8,000 to $16,000 with PEX and $12,
 
 Repiping makes sense when the water lines are failing throughout the house, not just in one spot. In Burien, that usually means homes with original galvanized steel pipe from the 1940s to 1960s, or copper that has started to develop pinhole leaks. Once a home has had two or more leaks in a couple of years, patching section by section usually costs more over time.
 
-## Repipe cost at a glance
+## How much does a repipe cost in Burien?
 
 | Job | Typical Burien area cost |
 | --- | --- |

@@ -6,3 +6,5 @@
 .post-card b{font-family:var(--fh);font-size:1.15rem;line-height:1.3;color:var(--p900)}
 .pc-tag{align-self:flex-start;padding:4px 12px;border-radius:999px;background:#fde8eb;color:#a50d26;font-family:var(--fh);font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
 .pc-desc{color:var(--mu);font-size:.98rem;line-height:1.55}.pc-meta{margin-top:auto;color:var(--mu);font-size:.85rem}
+.hero-text .hero-grid{grid-template-columns:minmax(0,1fr)}.hero-text .lead{max-width:62ch}
+.hero.hero-text{padding:36px 0 64px}@media(min-width:1000px){.hero.hero-text{padding:64px 0 88px}}

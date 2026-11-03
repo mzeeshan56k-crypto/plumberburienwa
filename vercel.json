@@ -166,7 +166,7 @@
   ],
   "functions": {
     "api/blog.js": {
-      "includeFiles": "{_posts,_data}/**"
+      "includeFiles": "{_posts/**,_data/**,404.html}"
     }
   },
   "rewrites": [

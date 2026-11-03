@@ -155,7 +155,9 @@ def main():
     i_body = tpl.find("<body")
     tpl_head, tpl_header, tpl_footer = tpl[:i_body], tpl[i_body:i_main], tpl[i_end:]
     tpl_header = tpl_header.replace(' aria-current="page"', "")
-    tpl_header = tpl_header.replace('<a href="/about/">About</a>', '<a href="/blog/" aria-current="page">Blog</a><a href="/about/">About</a>')
+    if '<a href="/blog/">Blog</a>' not in tpl_header:
+        tpl_header = tpl_header.replace('<a href="/about/">About</a>', '<a href="/blog/">Blog</a><a href="/about/">About</a>')
+    tpl_header = tpl_header.replace('<a href="/blog/">Blog</a>', '<a href="/blog/" aria-current="page">Blog</a>', 1)
     final_cta = tpl[tpl.find('<div class="wave-top"', tpl.rfind("</section>", 0, tpl.find('<section class="cta final">'))):tpl.find("</main>")]
     final_cta = final_cta[final_cta.find('<div class="wave-top"'):]
 
@@ -200,7 +202,7 @@ def main():
             ld["@graph"].append({"@type": "FAQPage", "mainEntity": [
                 {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", a)}} for q, a in faqs]})
         toc_html = "".join(f'<li><a href="#{i}">{inline(t)}</a></li>' for i, t in toc)
-        hero = (f'<section class="hero noimg"><div class="wrap hero-grid"><div><nav class="crumbs" aria-label="Breadcrumb"><ol>'
+        hero = (f'<section class="hero hero-text"><div class="wrap hero-grid"><div><nav class="crumbs" aria-label="Breadcrumb"><ol>'
                 f'<li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">{esc(p["h1"])}</li></ol></nav>'
                 f'<h1>{esc(p["h1"])}</h1><p class="lead">{inline(p["lead"])}</p>'
                 f'<p class="post-meta"><span>{CLUSTERS[p["cluster"]]}</span> &middot; <time datetime="{p["publishAt"]}">{date_h}</time> &middot; {mins} min read</p>'
@@ -222,7 +224,7 @@ def main():
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Home", "item": DOMAIN + "/"},
             {"@type": "ListItem", "position": 2, "name": "Blog", "item": DOMAIN + "/blog/"}]}]}
-    hero = ('<section class="hero noimg"><div class="wrap hero-grid"><div><nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">Blog</li></ol></nav>'
+    hero = ('<section class="hero hero-text"><div class="wrap hero-grid"><div><nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">Blog</li></ol></nav>'
             '<h1>Plumbing <span class="hl">Tips and Guides</span></h1><p class="lead">Practical answers for homeowners in Burien and nearby towns: leaks, drains, sewer lines, water heaters, pipes, costs, and seasonal care.</p></div></div></section>')
     body = '<section class="sec bg-white"><div class="wrap"><!--POSTS--></div></section>'
     open(os.path.join(OUT, "_index.html"), "w", encoding="utf-8").write(

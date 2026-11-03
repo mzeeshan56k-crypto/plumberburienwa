@@ -50,7 +50,7 @@ Cutting roots clears the line, but the cracks and joints are still there. Roots 
 ## Permanent fixes
 
 - **Spot repair.** Replace the single bad section where roots enter. $2,500 to $7,500.
-- **Trenchless lining.** A new seamless pipe is formed inside the old one, sealing every joint. $6,000 to $18,000.
+- **Trenchless lining.** A new jointless pipe is formed inside the old one, sealing every joint. $6,000 to $18,000.
 - **Full replacement.** Dig or burst in a new pipe. $8,000 to $25,000.
 
 Our article on [trenchless sewer repair](/blog/trenchless-sewer-repair/) explains lining and pipe bursting in detail.

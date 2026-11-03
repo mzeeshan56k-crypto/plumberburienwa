@@ -7,7 +7,7 @@ lead: A leak that starts while you are away can run for days. These steps protec
 keyword: plumbing checklist before vacation
 cluster: seasonal
 ---
-Before leaving home for a trip, shut off the main water valve, set the water heater to vacation or pilot mode, keep the heat at 55°F or higher, and check for leaks under sinks and around toilets. In winter, protect exposed pipes from freezing. These simple steps turn a possible flood into, at worst, a small drip.
+A good plumbing checklist before vacation is short and simple. Before leaving home for a trip, shut off the main water valve, set the water heater to vacation or pilot mode, keep the heat at 55°F or higher, and check for leaks under sinks and around toilets. In winter, protect exposed pipes from freezing. These simple steps turn a possible flood into, at worst, a small drip.
 
 The most expensive plumbing calls often come after a trip. A washer hose bursts or a pipe freezes and splits, and water runs for days before anyone comes home. Winter trips carry extra risk in Burien because cold snaps often arrive around the holidays. A house with the heat turned down and no one home is exactly where pipes freeze.
 

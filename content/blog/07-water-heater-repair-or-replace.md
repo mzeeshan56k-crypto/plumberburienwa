@@ -11,7 +11,7 @@ Whether to repair or replace a water heater depends mostly on its age, whether t
 
 Tank water heaters in the Burien area usually last 8 to 12 years. Our water here is generally soft, which is kind to tanks, but sediment still builds up and the anode rod wears out over time. Once the steel tank starts to rust through, no part can fix it. Many homeowners spend money on a repair only to replace the heater a few months later. A simple decision guide avoids that.
 
-## Repair or replace at a glance
+## How do you decide between repair and replacement?
 
 | Factor | Lean toward repair | Lean toward replace |
 | --- | --- | --- |
