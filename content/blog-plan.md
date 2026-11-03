@@ -25,3 +25,78 @@ Ranking competitors for Burien and Seattle-area plumbing queries: Roto-Rooter Bu
 
 ## Schedule
 10 posts a week: Monday to Friday at 9:00 a.m. and 3:00 p.m. Pacific, from Wednesday 4 November 2026 to Tuesday 22 December 2026. Order is set by the number prefix of each file in content/blog/. Winter topics go first, holiday and travel posts land before Thanksgiving and Christmas.
+
+## Full publishing schedule (Pacific time)
+
+| # | Publishes | Post | URL |
+| --- | --- | --- | --- |
+| 1 | Wed Nov 4, 9:00 AM | How to Prevent Frozen Pipes in Burien | /blog/prevent-frozen-pipes/ |
+| 2 | Wed Nov 4, 3:00 PM | What to Do When a Pipe Bursts in Your Burien Home | /blog/burst-pipe-what-to-do/ |
+| 3 | Thu Nov 5, 9:00 AM | How to Find Your Main Water Shutoff Valve | /blog/main-water-shutoff-valve/ |
+| 4 | Thu Nov 5, 3:00 PM | How to Winterize Outdoor Faucets and Hose Bibs | /blog/winterize-outdoor-faucets/ |
+| 5 | Fri Nov 6, 9:00 AM | Home Plumbing Maintenance Checklist for Burien Homeowners | /blog/home-plumbing-maintenance-checklist/ |
+| 6 | Fri Nov 6, 3:00 PM | Side Sewer Guide for Burien Homeowners | /blog/side-sewer-guide-burien/ |
+| 7 | Mon Nov 9, 9:00 AM | Should You Repair or Replace Your Water Heater? | /blog/water-heater-repair-or-replace/ |
+| 8 | Mon Nov 9, 3:00 PM | How to Fix a Clogged Kitchen Sink | /blog/clogged-kitchen-sink/ |
+| 9 | Tue Nov 10, 9:00 AM | Galvanized Pipes in Older Burien Homes | /blog/galvanized-pipes-older-homes/ |
+| 10 | Tue Nov 10, 3:00 PM | How to Thaw a Frozen Pipe Safely | /blog/thaw-frozen-pipe-safely/ |
+| 11 | Wed Nov 11, 9:00 AM | Holiday Plumbing Tips for Burien Hosts | /blog/holiday-plumbing-tips/ |
+| 12 | Wed Nov 11, 3:00 PM | How to Prevent Kitchen Grease Clogs | /blog/grease-clog-prevention/ |
+| 13 | Thu Nov 12, 9:00 AM | Garbage Disposal Dos and Don'ts | /blog/garbage-disposal-dos-and-donts/ |
+| 14 | Thu Nov 12, 3:00 PM | Fall Plumbing Checklist for Burien and Puget Sound Homes | /blog/fall-plumbing-checklist/ |
+| 15 | Fri Nov 13, 9:00 AM | No Hot Water? 8 Things to Check First | /blog/no-hot-water-troubleshooting/ |
+| 16 | Fri Nov 13, 3:00 PM | 9 Signs of a Hidden Water Leak in Your Home | /blog/signs-of-hidden-water-leak/ |
+| 17 | Mon Nov 16, 9:00 AM | Sewer Scope Inspection in Burien: What It Shows | /blog/sewer-scope-inspection/ |
+| 18 | Mon Nov 16, 3:00 PM | Tree Roots in Your Sewer Line: Signs and Solutions | /blog/tree-roots-in-sewer-line/ |
+| 19 | Tue Nov 17, 9:00 AM | Low Water Pressure in Your House: Causes and Fixes | /blog/low-water-pressure-causes/ |
+| 20 | Tue Nov 17, 3:00 PM | Is It a Plumbing Emergency? A Homeowner Checklist | /blog/plumbing-emergency-checklist/ |
+| 21 | Wed Nov 18, 9:00 AM | Emergency Plumber Cost in Burien | /blog/emergency-plumber-cost/ |
+| 22 | Wed Nov 18, 3:00 PM | Water Heater Replacement Cost in Burien | /blog/water-heater-replacement-cost/ |
+| 23 | Thu Nov 19, 9:00 AM | Sewer Line Replacement Cost in Burien | /blog/sewer-line-replacement-cost/ |
+| 24 | Thu Nov 19, 3:00 PM | Whole House Repipe Cost in Burien | /blog/whole-house-repipe-cost/ |
+| 25 | Fri Nov 20, 9:00 AM | Plumbing Costs in Burien: 2026 Price Guide | /blog/plumbing-cost-guide/ |
+| 26 | Fri Nov 20, 3:00 PM | Hydro Jetting vs Drain Snaking: Which Do You Need? | /blog/hydro-jetting-vs-snaking/ |
+| 27 | Mon Nov 23, 9:00 AM | Crawl Space Plumbing Problems in Pacific Northwest Homes | /blog/crawl-space-plumbing-problems/ |
+| 28 | Mon Nov 23, 3:00 PM | How Heavy Rain Affects Your Plumbing in Burien | /blog/rainy-season-plumbing/ |
+| 29 | Tue Nov 24, 9:00 AM | Water Heater Leaking From the Bottom: What to Do | /blog/water-heater-leaking-from-bottom/ |
+| 30 | Tue Nov 24, 3:00 PM | Plumbing Checklist Before You Leave Home | /blog/vacation-plumbing-checklist/ |
+| 31 | Wed Nov 25, 9:00 AM | Why Is My Water Bill So High? | /blog/high-water-bill-causes/ |
+| 32 | Wed Nov 25, 3:00 PM | Clay Sewer Pipe Problems in Older Burien Homes | /blog/clay-sewer-pipe-problems/ |
+| 33 | Thu Nov 26, 9:00 AM | Trenchless Sewer Repair: Lining vs Pipe Bursting | /blog/trenchless-sewer-repair/ |
+| 34 | Thu Nov 26, 3:00 PM | PEX vs Copper Pipes: Which Is Better for Your Home? | /blog/pex-vs-copper-pipes/ |
+| 35 | Fri Nov 27, 9:00 AM | Tankless Water Heaters in Burien: Pros, Cons and Costs | /blog/tankless-water-heater-pros-cons/ |
+| 36 | Fri Nov 27, 3:00 PM | How to Flush a Tank Water Heater | /blog/flush-water-heater/ |
+| 37 | Mon Nov 30, 9:00 AM | Slow Bathroom Sink Drain: Causes and Fixes | /blog/slow-bathroom-sink-drain/ |
+| 38 | Mon Nov 30, 3:00 PM | Toilet Won't Unclog? What to Do Next | /blog/toilet-wont-unclog/ |
+| 39 | Tue Dec 1, 9:00 AM | Sewer Smell in the House: 7 Causes and Fixes | /blog/sewer-smell-in-house/ |
+| 40 | Tue Dec 1, 3:00 PM | Sump Pumps for Burien Homes: A Practical Guide | /blog/sump-pump-guide/ |
+| 41 | Wed Dec 2, 9:00 AM | Slab Leak Signs and Repair Options | /blog/slab-leak-signs/ |
+| 42 | Wed Dec 2, 3:00 PM | Water Under the Kitchen Sink: Causes and Fixes | /blog/water-under-kitchen-sink/ |
+| 43 | Thu Dec 3, 9:00 AM | Ceiling Water Stain: Plumbing Leak or Roof Leak? | /blog/ceiling-water-stain-leak/ |
+| 44 | Thu Dec 3, 3:00 PM | How to Check a Toilet for Silent Leaks | /blog/check-toilet-for-leaks/ |
+| 45 | Fri Dec 4, 9:00 AM | Are Chemical Drain Cleaners Safe for Your Pipes? | /blog/chemical-drain-cleaners/ |
+| 46 | Fri Dec 4, 3:00 PM | Gurgling Drains: What They Mean and How to Fix Them | /blog/gurgling-drains/ |
+| 47 | Mon Dec 7, 9:00 AM | Basement Floor Drain Backing Up? Causes and Fixes | /blog/basement-floor-drain-backup/ |
+| 48 | Mon Dec 7, 3:00 PM | Heat Pump Water Heaters: Are They Worth It in Burien? | /blog/heat-pump-water-heater/ |
+| 49 | Tue Dec 8, 9:00 AM | How Long Do Water Heaters Last? | /blog/water-heater-lifespan/ |
+| 50 | Tue Dec 8, 3:00 PM | Pinhole Leaks in Copper Pipes: Why They Happen | /blog/pinhole-leaks-copper-pipes/ |
+| 51 | Wed Dec 9, 9:00 AM | Polybutylene Pipe: How to Spot It and What to Do | /blog/polybutylene-pipes/ |
+| 52 | Wed Dec 9, 3:00 PM | Banging Pipes: How to Fix Water Hammer | /blog/water-hammer-banging-pipes/ |
+| 53 | Thu Dec 10, 9:00 AM | Pressure Reducing Valves: Signs Yours Is Failing | /blog/pressure-reducing-valve/ |
+| 54 | Thu Dec 10, 3:00 PM | Leaking Water Service Line: Signs, Responsibility and Costs | /blog/water-service-line-leak/ |
+| 55 | Fri Dec 11, 9:00 AM | Brown or Rusty Tap Water: Causes and Fixes | /blog/brown-rusty-tap-water/ |
+| 56 | Fri Dec 11, 3:00 PM | What Is a Sewer Cleanout and Where Is Yours? | /blog/sewer-cleanout-location/ |
+| 57 | Mon Dec 14, 9:00 AM | Backwater Valves: Do Burien Homes Need One? | /blog/backwater-valve/ |
+| 58 | Mon Dec 14, 3:00 PM | Burien Sewer Districts: Who Handles What | /blog/burien-sewer-districts/ |
+| 59 | Tue Dec 15, 9:00 AM | What Size Water Heater Do You Need? | /blog/water-heater-size-guide/ |
+| 60 | Tue Dec 15, 3:00 PM | Rotten Egg Smell in Hot Water: Causes and Fixes | /blog/rotten-egg-smell-hot-water/ |
+| 61 | Wed Dec 16, 9:00 AM | Shower Drain Clogged With Hair: How to Clear It | /blog/shower-drain-hair-clog/ |
+| 62 | Wed Dec 16, 3:00 PM | How Often Should You Clean Your Drains? | /blog/how-often-clean-drains/ |
+| 63 | Thu Dec 17, 9:00 AM | Running Toilet: How to Fix It | /blog/running-toilet-fix/ |
+| 64 | Thu Dec 17, 3:00 PM | Leaky Faucet Repair: Causes and Fixes | /blog/leaky-faucet-repair/ |
+| 65 | Fri Dec 18, 9:00 AM | How to Verify a Plumber's License in Washington | /blog/verify-plumber-license-washington/ |
+| 66 | Fri Dec 18, 3:00 PM | Plumbing Permits in Burien: When You Need One | /blog/plumbing-permits-burien/ |
+| 67 | Mon Dec 21, 9:00 AM | Buying an Older Home in Burien? Check the Plumbing First | /blog/older-home-plumbing-inspection/ |
+| 68 | Mon Dec 21, 3:00 PM | Plumbing Tips for Burien Landlords and Rental Owners | /blog/landlord-plumbing-guide/ |
+| 69 | Tue Dec 22, 9:00 AM | Do You Need a Water Softener in the Seattle Area? | /blog/water-softener-seattle-area/ |
+| 70 | Tue Dec 22, 3:00 PM | Water Saving Plumbing Upgrades for Burien Homes | /blog/water-saving-plumbing-upgrades/ |
